@@ -67,7 +67,7 @@ I’m passionate about creating useful and user-friendly digital experiences, an
 # 📊 GitHub Stats:
 
   <img align="right" height="150" src="https://i.gifer.com/4un.gif"  />
-###
+
 ![](https://github-readme-stats.vercel.app/api?username=FenrirDrage&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)
 
   <img align="right" height="150" src="https://i.gifer.com/F7Ed.gif"  />
